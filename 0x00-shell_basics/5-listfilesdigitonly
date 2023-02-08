@@ -1,2 +1,2 @@
 #!/bin/bash
-ls sed -l
+ls -n -l
