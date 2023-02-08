@@ -1,2 +1,2 @@
 #!/bin/bash
-ls tr -l
+ls sed -l
